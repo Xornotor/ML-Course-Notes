@@ -42,6 +42,57 @@ A place to collaborate and share lecture notes on all topics related to machine 
 
 ---
 
+### Deep Learning Specialization 
+[Website](https://www.coursera.org/specializations/deep-learning) | Instructor: Andrew Ng
+
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Lecture</b></th>
+    <th class="tg-yw4l"><b>Description</b></th>
+    <th class="tg-yw4l"><b>Video</b></th>
+    <th class="tg-yw4l"><b>Notes</b></th>
+    <th class="tg-yw4l"><b>Author</b></th>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Neural Networks and Deep Learning</td>
+    <td class="tg-yw4l">Basic concepts about Multi-layer Perceptron, Neural Networks and Deep Learning.</td>
+    <td class="tg-yw4l"><a href="https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning">Videos<a></td>
+    <td class="tg-yw4l"><a href="Notes_DL_Specialization/DL 1 of 5 - Neural Networks and Deep Learning.pdf">Notes</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/xornotor">Xornotor<a></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization</td>
+    <td class="tg-yw4l">Hyperparameter Tuning, Regularization and Optimization techniques.</td>
+    <td class="tg-yw4l"><a href="https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning">Videos<a></td>
+    <td class="tg-yw4l"><a href="Notes_DL_Specialization/DL 2 of 5 - Improving Deep Neural Networks, Hyperparameter Tuning.pdf">Notes</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/xornotor">Xornotor<a></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Structuring Machine Learning Projects</td>
+    <td class="tg-yw4l">Strategies about data organization, performance improvements, error analysis and more.</td>
+    <td class="tg-yw4l"><a href="https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning">Videos<a></td>
+    <td class="tg-yw4l"><a href="Notes_DL_Specialization/DL 3 of 5 - Structuring Machine Learning Projects.pdf">Notes</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/xornotor">Xornotor<a></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Convolutional Neural Networks</td>
+    <td class="tg-yw4l">Convolutional Neural Networks, their advantages and applications.</td>
+    <td class="tg-yw4l"><a href="https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning">Videos<a></td>
+    <td class="tg-yw4l"><a href="Notes_DL_Specialization/DL 4 of 5 - Convolutional Neural Networks.pdf">Notes</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/xornotor">Xornotor<a></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Sequence Models</td>
+    <td class="tg-yw4l">Recurrent Networks, Natural Language Processing, Sequence Models and Transformer Networks.</td>
+    <td class="tg-yw4l"><a href="https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning">Videos<a></td>
+    <td class="tg-yw4l"><a href="Notes_DL_Specialization/DL 5 of 5 - Sequence Models.pdf">Notes</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/xornotor">Xornotor<a></td>
+  </tr>
+</table>
+
+---
+
 ### MIT 6.S191 Introduction to Deep Learning (2022) 
 [Website](http://introtodeeplearning.com/) | Lectures by: Alexander Amini and Ava Soleimany
 
